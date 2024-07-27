@@ -1,9 +1,9 @@
 ## Diseño 🛠
 La aplicación permite ingresar diversas fechas y seleccionar entre cliente regular y cliente con recompensas mediante un toggle. 
 Cada tarjeta de hotel contiene:
-🏨 Nombre del hotel
-⭐ Calificación en estrellas visuales
-💵 Precio correspondiente a la fecha seleccionada.
+* 🏨 Nombre del hotel
+* ⭐ Calificación en estrellas visuales
+* 💵 Precio correspondiente a la fecha seleccionada.
 
 ### Capturas de pantalla:
 ![Primera Parte](src/assets/imagenes/Screenshot_1.png)
