@@ -21,4 +21,4 @@ react-date-range: Biblioteca para la selección de fechas y rangos de fechas.
 ## Link a demo 👀
 ¿Quieres ver cómo quedó esta réplica en acción? ¡Puedes visitar el siguiente enlace para ver el demo en vivo!
 
-👉 [Hotel]([https://hotel-booking-one-alpha.vercel.app/])
+👉 [Hotel](https://hotel-booking-one-alpha.vercel.app/)
