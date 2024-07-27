@@ -6,10 +6,13 @@ Cada tarjeta de hotel contiene:
 💵 Precio correspondiente a la fecha seleccionada.
 
 ### Capturas de pantalla:
-!(src/assets/imagenes/Screenshot_1.png)
-!(src/assets/imagenes/Screenshot_2.png)
-!(src/assets/imagenes/Screenshot_3.png)
-!(src/assets/imagenes/Screenshot_4.png)
+![Primera Parte](src/assets/imagenes/Screenshot_1.png)
+
+![Segunda Parte](src/assets/imagenes/Screenshot_2.png)
+
+![Tercera Parte](src/assets/imagenes/Screenshot_3.png)
+
+![Cuarta Parte](src/assets/imagenes/Screenshot_4.png)
 
 ## Tecnologías 🚀
 React: Framework para construir la interfaz de usuario.
