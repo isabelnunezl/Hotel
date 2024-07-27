@@ -15,8 +15,8 @@ Cada tarjeta de hotel contiene:
 ![Cuarta Parte](src/assets/imagenes/Screenshot_4.png)
 
 ## Tecnologías 🚀
-React: Framework para construir la interfaz de usuario.
-react-date-range: Biblioteca para la selección de fechas y rangos de fechas. 
+* React: Framework para construir la interfaz de usuario.
+* React-date-range: Biblioteca para la selección de fechas y rangos de fechas. 
 
 ## Link a demo 👀
 ¿Quieres ver cómo quedó esta réplica en acción? ¡Puedes visitar el siguiente enlace para ver el demo en vivo!
